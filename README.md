@@ -1,0 +1,1 @@
+The objective of this project is to provide snippet of  solutions scripts for data analysis life cycle, which mostly involves. 
